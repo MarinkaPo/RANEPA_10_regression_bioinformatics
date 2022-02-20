@@ -6,4 +6,4 @@ matplotlib==3.4.3
 pillow==8.4.0
 scikit-learn==1.0.1
 shap==0.40.0
-rdkit==2021.9.4
+rdkit-pypi==2021.9.4
